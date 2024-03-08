@@ -1,2 +1,1 @@
-console.log("Test CDN Github")
-console.log("added @latest")
+console.log("Update Latest using js delivr @main")
