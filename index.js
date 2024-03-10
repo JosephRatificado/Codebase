@@ -1,1 +1,1 @@
-console.log("Update Latest using js delivr @main")
+console.log("Using github js test 01")
