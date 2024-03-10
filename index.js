@@ -1,1 +1,2 @@
-console.log("Using github js test 01")
+console.log("Using github js test 02")
+console.log("this is second test")
